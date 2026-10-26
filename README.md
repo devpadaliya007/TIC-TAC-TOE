@@ -39,6 +39,5 @@ A simple web-based Tic-Tac-Toe game built using *HTML, CSS and JavaScript* to pr
 ---
 ## 🤝 Connect With Me
  
-💼 LinkedIn: https://www.
-💻 GitHub: https://github.com/devpadaliya007
+💻 GitHub: https://devpadaliya007.github.io/TIC-TAC-TOE/
 ⭐ If you like this project, give it a star!
